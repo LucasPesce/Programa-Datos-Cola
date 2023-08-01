@@ -1,0 +1,72 @@
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.AssemblyReference.cache
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.Form1.resources
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.Form2.resources
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.GenerateResource.cache
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfoInputs.cache
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfo.cs
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.CoreCompileInputs.cache
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.exe
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.deps.json
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.runtimeconfig.json
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.dll
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.pdb
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.dll
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\refint\Turnero.dll
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.pdb
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.genruntimeconfig.cache
+D:\Escritorio\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\ref\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.exe
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.deps.json
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.runtimeconfig.json
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\bin\Debug\net6.0-windows\Turnero.pdb
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.AssemblyReference.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.Form1.resources
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.Form2.resources
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.GenerateResource.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfoInputs.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfo.cs
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\refint\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.pdb
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\Turnero.genruntimeconfig.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\PROFESOR\Clase 28042023 Turnero\Turnero\Turnero\obj\Debug\net6.0-windows\ref\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.exe
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.deps.json
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.runtimeconfig.json
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.pdb
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.AssemblyReference.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.Form1.resources
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.Form2.resources
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.GenerateResource.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfoInputs.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfo.cs
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\refint\Turnero.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.pdb
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.genruntimeconfig.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\ref\Turnero.dll
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.exe
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.deps.json
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.runtimeconfig.json
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.dll
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\bin\Debug\net6.0-windows\Turnero.pdb
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.AssemblyReference.cache
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.Form1.resources
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.Form2.resources
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.GenerateResource.cache
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfoInputs.cache
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.AssemblyInfo.cs
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.csproj.CoreCompileInputs.cache
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.dll
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\refint\Turnero.dll
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.pdb
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\Turnero.genruntimeconfig.cache
+D:\DESK\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 3 - COLA\Turnero\obj\Debug\net6.0-windows\ref\Turnero.dll
